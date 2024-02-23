@@ -95,4 +95,4 @@ Use BeautifulSoup to scrape the following data from JustWatch:
 3. The assignment will be evaluated based on the correctness of the scraped data, accuracy of data filtering and analysis, and the overall quality of the Python code.
 
 # Data Set:
-[[https://drive.google.com/file/d/1si1Y8UpfRc8T-LGlP-NZivorWP6DitgO/view?usp=sharing](https://drive.google.com/drive/folders/1LS9-du5o6tZRGaipWBaIJBTrgIWAhXp_?usp=drive_link)https://drive.google.com/drive/folders/1LS9-du5o6tZRGaipWBaIJBTrgIWAhXp_?usp=drive_link](https://drive.google.com/drive/folders/1LS9-du5o6tZRGaipWBaIJBTrgIWAhXp_?usp=drive_link)https://drive.google.com/drive/folders/1LS9-du5o6tZRGaipWBaIJBTrgIWAhXp_?usp=drive_link
+https://drive.google.com/drive/folders/1LS9-du5o6tZRGaipWBaIJBTrgIWAhXp_?usp=drive_link
